@@ -1,4 +1,4 @@
-Law
+LawDB
 ===
 
 LawDB appears to be a wiki for the law.  Unfortunately, rewriting it on a form on the web doesn't change the law, so that is not the intended use case.  The problem Law intends to solve is that the codes and regulations of the various levels and parts of government in the United States are inaccessible at worst, and difficult to navigate at best.
