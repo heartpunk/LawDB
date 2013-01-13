@@ -1,4 +1,8 @@
-law
+Law
 ===
 
-A bunch of laws, and some tools for fetching/formatting them.
+LawDB appears to be a wiki for the law.  Unfortunately, rewriting it on a form on the web doesn't change the law, so that is not the intended use case.  The problem Law intends to solve is that the codes and regulations of the various levels and parts of government in the United States are inaccessible at worst, and difficult to navigate at best.
+
+The means by which LawDB intends to do that is to import the digital copies of all the codes and regulations that we can legally obtain, and then manually reformat them so that they are both machine and human readable.  It seems the process should be manual, at first, so we can collectively gain insight into how and if any parts should later be automated.  This also has the added benefit that it requires a certain number of people to read portions of the laws which they are subject to (for many I suspect this will be their first time).  I consider this a prerequisite to participating in any very meaningful way in efforts to change the law, and it is from frustration with the means available to me for doing this that I've decided to undertake this project.
+
+For now, the aim is only to generate a machine readable form, and to provide a pleasant way to view the law.  Later, APIs are expected, as well as bulk export functionality, so that this can serve as the basis for more sophisticated applications that use the law as an input.  One such application that I look forward to is some means of discussion inline with the law, to step beyond facilitating awareness of the law, to rather facilitating discourse about how law should change.
